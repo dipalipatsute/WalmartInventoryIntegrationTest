@@ -15,7 +15,8 @@ import com.sun.jersey.api.client.WebResource;
 public class WSTester {
 
 	private String authToken = null;
-	private String baseUrl = "http://localhost:8080/walmartInventoryws/services";
+	private String baseUrl = "http://localhost:8080/walmartTestws/services";
+	
 	/**
 	 * @param args
 	 */
